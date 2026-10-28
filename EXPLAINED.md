@@ -1,4 +1,4 @@
-# Feed Generator – explained like lemon squeezy 🍋
+# Feed Generator - explained like lemon squeezy
 ### (using the language of a cash equities trading desk)
 
 ## The story in one minute
